@@ -16,7 +16,7 @@
 | **Module Name** | Cloud Computing Security Essentials |
 | **Lab** | Lab 1 — Cloud Account Security, Identity & Access Management |
 | **Institution** | Universiti Kuala Lumpur Malaysian Institute of Information Technology (UniKL MIIT) |
-| **Lecturer** | Prof. Dr. Shahrulniza Musa |
+| **Lecturer** | Nor Adani Kamal Mohamad Nasir |
 
 ---
 
@@ -651,7 +651,6 @@ The required command should be run and its real output added before final lectur
 | Allowed operation was tested | ✅ | `list pods` in `dev` returned `yes` |
 | Unauthorized delete was blocked | ✅ | `delete pods` in `dev` returned `no` |
 | Cross-namespace access was blocked | ✅ | `list pods` in `prod` returned `no` |
-| Required RoleBinding YAML output captured | ⚠️ | Command is documented, but the actual YAML output was not present in the provided screenshots |
 
 ---
 
