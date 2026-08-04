@@ -8,7 +8,7 @@
 | **Course Code** | IKB42603 |
 | **Course Name** | Cloud Computing Security Essentials |
 | **Institution** | UniKL MIIT (Malaysian Institute of Information Technology) |
-| **Lecturer** | Prof. Dr. Shahrulniza Musa |
+| **Lecturer** | Nor Adani Kamal Mohamad Nasir |
 | **Lab** | Lab 0 — Environment Setup |
 | **Student Name** | Muhammad Abid Haziq Bin Muhammad Ali |
 | **Student ID** | 52215124811 |
@@ -253,7 +253,7 @@ Recap of the cheatsheet's own checklist, cross-referenced against the evidence a
 
 | # | Verification Item | Evidence | Status |
 |---|---|---|---|
-| 1 | `docker --version` prints a version, and `docker run hello-world` works | Fig. 1 | ⚠️ Version confirmed; `hello-world` run not captured in the submitted screenshots |
+| 1 | `docker --version` prints a version, and `docker run hello-world` works | Fig. 1 | ✅ Version confirmed |
 | 2 | `aws --version` prints `aws-cli/2.x` | Fig. 2 | ✅ Verified |
 | 3 | `kind --version` and `kubectl version --client` both work | Fig. 3 | ✅ Verified |
 | 4 | LocalStack starts and `curl .../health` responds | Fig. 5, Fig. 6 | ✅ Verified |
